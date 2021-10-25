@@ -4,7 +4,7 @@
 # StudyBuddy
 </div>
 
-This is a **Django** web application which allows people to connect from all over the world and study. <br/> I have created it by watching a tutorial by Dennis Ivy. This project provides a complete knowledge of Django. How it works and functions.
+This is a **Django** web application which allows people to connect from all over the world and study. <br/> I have created it by watching a tutorial by [Dennis Ivy](https://twitter.com/dennisivy11). This project provides a complete knowledge of Django. How it works and functions.
 
 - Install the requirements :
 
@@ -46,4 +46,5 @@ This is a **Django** web application which allows people to connect from all ove
 </td>
 </table>
 
-
+To see a real-time deployment of this app, please visit :
+                  https://studybuddev.herokuapp.com/
